@@ -4,7 +4,7 @@
 
 2. **Art / Icon Sources**: There are several options for free art, icons, etc. that may be useful for creating figures.
 
-- [Biorender](https://www.biorender.com/): Very popular and extensive library. Required license (i.e., not open-source), which is currently available from HMS - does not appear to be free (see [https://it.hms.harvard.edu/service/biorender](https://it.hms.harvard.edu/service/biorender).
+- [Biorender](https://www.biorender.com/): Very popular and extensive library. Required license (i.e., not open-source), which is currently available from HMS - does not appear to be free (see [https://it.hms.harvard.edu/service/biorender](https://it.hms.harvard.edu/service/biorender)).
 - [bioicons](https://bioicons.com/): A large, open-source library of bio-themed art and icons.
 - [Phylopic](https://www.phylopic.org/): A large, open source library of silhouette images for various forms of life.
 - [Font Awesome](https://fontawesome.com/search?m=free&o=r): A huge icon library that includes some free, open-source options. Better for non-biological icons, like generic computer icons. 
