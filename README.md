@@ -1,6 +1,6 @@
 # Learning materials for Adobe Illustrator
 
-1. **Guide**: A great [Adobe Illustrator guide](https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit#) has been created by the [Raj lab at U. Penn.](https://rajlab.seas.upenn.edu/)! Here is a [blog post](https://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html) with some background, including some additional linked blog posts that I also recommend reading. This covers many of the basic tools and use cases in Illustrator and is tailored towards scientific figures.
+1. **Guide**: A great [Adobe Illustrator guide](https://docs.google.com/document/d/1TXmbltzBPcApCcuJ9HLOIQgWPqKylrFRWRudrN-5vBE/edit#) has been created by the [Raj lab at U. Penn.](https://rajlab.seas.upenn.edu/)! Here is a [blog post](https://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html) with some background, including some additional linked blog posts that I also recommend reading (especially [this one](https://rajlaboratory.blogspot.com/2016/02/from-reproducibility-to-over.html)). This covers many of the basic tools and use cases in Illustrator and is tailored towards scientific figures.
 
 2. **Art / Icon Sources**: There are several options for free art, icons, etc. that may be useful for creating figures.
 
@@ -8,7 +8,8 @@
 - [bioicons](https://bioicons.com/): A large, open-source library of bio-themed art and icons.
 - [Phylopic](https://www.phylopic.org/): A large, open source library of silhouette images for various forms of life.
 - [Font Awesome](https://fontawesome.com/search?m=free&o=r): A huge icon library that includes some free, open-source options. Better for non-biological icons, like generic computer icons. 
-- [Reactome Icon Library](https://reactome.org/icon-lib): Reactome has made a large, open-source library of cell/molecular biology icons freely available. 
+- [Reactome Icon Library](https://reactome.org/icon-lib): Reactome has made a large, open-source library of cell/molecular biology icons freely available.
+- [Emojis](https://unicode.org/emoji/charts/full-emoji-list.html): Emojis can be useful for certain purposes and there are a ton of options that have been standardized as a form of font by Unicode. They also offer a range of skin tones (for human emojis) and can help ensure everyone feels welcome.
 
 3. **Basic Document Setup Information**: Here is some basic information about how you should be setting up your documents for optimal use.
 
