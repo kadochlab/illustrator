@@ -7,6 +7,7 @@
 - [Biorender](https://www.biorender.com/): Very popular and extensive library. Required license (i.e., not open-source), which is currently available from HMS - does not appear to be free (see [https://it.hms.harvard.edu/service/biorender](https://it.hms.harvard.edu/service/biorender)).
 - [NIH BioArt Source](https://bioart.niaid.nih.gov/): Open-source repository of 2000+ science and medical art visuals from NIAID.
 - [bioicons](https://bioicons.com/): A large, open-source library of bio-themed art and icons.
+- [SciDraw](https://scidraw.io/): A free repository of drawings.
 - [Phylopic](https://www.phylopic.org/): A large, open source library of silhouette images for various forms of life.
 - [Font Awesome](https://fontawesome.com/search?m=free&o=r): A huge icon library that includes some free, open-source options. Better for non-biological icons, like generic computer icons. 
 - [Reactome Icon Library](https://reactome.org/icon-lib): Reactome has made a large, open-source library of cell/molecular biology icons freely available.
