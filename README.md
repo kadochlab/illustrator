@@ -4,7 +4,7 @@
 
 2. **Art / Icon Sources**: There are several options for free art, icons, etc. that may be useful for creating figures.
 
-- [Biorender](https://www.biorender.com/): Very popular and extensive library. Required license (i.e., not open-source), which is currently available from HMS - does not appear to be free (see [https://it.hms.harvard.edu/service/biorender](https://it.hms.harvard.edu/service/biorender)).
+- [Biorender](https://www.biorender.com/): Very popular and extensive library. Required license (i.e., not open-source), which is currently share as a lab - inquire with Kristen about the login credentials. More licenses are available from HMS - does not appear to be free (see [https://it.hms.harvard.edu/service/biorender](https://it.hms.harvard.edu/service/biorender)).
 - [NIH BioArt Source](https://bioart.niaid.nih.gov/): Open-source repository of 2000+ science and medical art visuals from NIAID.
 - [bioicons](https://bioicons.com/): A large, open-source library of bio-themed art and icons.
 - [SciDraw](https://scidraw.io/): A free repository of drawings.
