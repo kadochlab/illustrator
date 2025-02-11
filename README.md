@@ -12,6 +12,7 @@
 - [Font Awesome](https://fontawesome.com/search?m=free&o=r): A huge icon library that includes some free, open-source options. Better for non-biological icons, like generic computer icons. 
 - [Reactome Icon Library](https://reactome.org/icon-lib): Reactome has made a large, open-source library of cell/molecular biology icons freely available.
 - [Emojis](https://unicode.org/emoji/charts/full-emoji-list.html): Emojis can be useful for certain purposes and there are a ton of options that have been standardized as a form of font by Unicode. They also offer a range of skin tones (for human emojis) and can help ensure everyone feels welcome.
+- [Biographics](https://biographics.nitro.bio/): A simple, free tool for building graphics using open-source art.
 
 3. **Basic Document Setup Information**: Here is some basic information about how you should be setting up your documents for optimal use.
 
